@@ -1,2 +1,3 @@
 # testRepo
-gg.com 1
+
+This is a testing repository for IT203 G6
